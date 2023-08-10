@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h5{
+    color: darkslateblue;
+}
+input{
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 5px;
+    font-size: 16px;
+    color: rgb(214, 38, 117);}
+    h2{
+        color: rgb(225, 42, 143);
+    }
+    imG{
+        position: absolute;
+    left: 50%;
+    height: 80px;
+
+    
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      
+      th, td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: center;
+      }
